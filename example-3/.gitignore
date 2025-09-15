@@ -1,2 +1,6 @@
-!Kazino-Royal.cpp
-Kazino-Royal*
+main
+*.exe
+
+*.o
+*.d
+*.log
